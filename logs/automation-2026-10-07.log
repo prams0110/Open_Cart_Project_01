@@ -1,0 +1,50 @@
+15:03:44.885 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\MasterFile.xml
+
+15:04:03.802 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has started the Execution*********
+15:04:04.609 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the My Account *********
+15:04:06.001 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the Register now button *********
+15:04:06.001 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing the user details *********
+15:04:10.467 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Performing the validation*********
+15:04:10.551 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has finished the Execution*********
+15:04:20.013 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Started*****
+15:04:24.267 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Finished*****
+15:07:47.603 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\MasterFile.xml"
+15:07:49.015 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\MasterFile.xml
+
+15:08:00.068 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has started the Execution*********
+15:08:00.896 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the My Account *********
+15:08:03.400 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the Register now button *********
+15:08:03.400 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing the user details *********
+15:08:07.047 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Performing the validation*********
+15:08:07.140 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has finished the Execution*********
+15:08:16.054 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Started*****
+15:11:29.179 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\MasterFile.xml"
+15:11:32.416 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\MasterFile.xml
+
+15:11:49.381 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has started the Execution*********
+15:11:50.054 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the My Account *********
+15:11:51.378 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the Register now button *********
+15:11:51.378 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing the user details *********
+15:11:55.201 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Performing the validation*********
+15:11:55.301 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has finished the Execution*********
+15:12:04.432 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Started*****
+14:48:19.062 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\MasterFile.xml"
+14:48:22.695 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\MasterFile.xml
+
+14:48:47.707 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has started the Execution*********
+14:48:48.640 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the My Account *********
+14:48:50.465 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the Register now button *********
+14:48:50.465 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing the user details *********
+14:48:57.975 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Performing the validation*********
+14:48:58.348 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has finished the Execution*********
+14:49:07.230 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Started*****
+14:49:16.367 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Finished*****
+14:51:58.869 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\MasterFile.xml"
+14:52:00.066 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\MasterFile.xml
+
+14:52:12.901 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has started the Execution*********

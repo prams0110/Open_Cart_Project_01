@@ -1,0 +1,46 @@
+14:41:29.239 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:29.293 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:29.298 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:29.474 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:29.478 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:29.481 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:29.808 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:29.811 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:29.812 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:30.082 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:41:30.085 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:41:30.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:41:30.417 [main] INFO  testCases.TC003_AccountLoginDDT - ****** Test Execution of TC003_AccountLoginDDT Started
+14:41:44.828 [main] INFO  testCases.TC003_AccountLoginDDT - ****** Test Execution of TC003_AccountLoginDDT Started
+14:41:58.332 [main] INFO  testCases.TC003_AccountLoginDDT - ****** Test Execution of TC003_AccountLoginDDT Finished
+14:41:58.349 [main] INFO  testCases.TC003_AccountLoginDDT - ****** Test Execution of TC003_AccountLoginDDT Started
+14:42:11.290 [main] INFO  testCases.TC003_AccountLoginDDT - ****** Test Execution of TC003_AccountLoginDDT Finished
+14:42:11.298 [main] INFO  testCases.TC003_AccountLoginDDT - ****** Test Execution of TC003_AccountLoginDDT Started
+14:42:24.047 [main] INFO  testCases.TC003_AccountLoginDDT - ****** Test Execution of TC003_AccountLoginDDT Finished
+14:42:24.053 [main] INFO  testCases.TC003_AccountLoginDDT - ****** Test Execution of TC003_AccountLoginDDT Started
+14:42:28.097 [main] INFO  testCases.TC003_AccountLoginDDT - ****** Test Execution of TC003_AccountLoginDDT Finished
+14:10:45.842 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\Grouping.xml"
+14:10:49.001 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\Grouping.xml
+
+14:11:07.907 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Started*****
+14:11:12.582 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Finished*****
+14:12:27.153 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\Grouping.xml"
+14:12:29.921 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\Grouping.xml
+
+14:12:43.953 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Started*****
+14:12:47.449 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Finished*****
+14:16:49.411 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\Grouping.xml"
+14:16:51.546 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\Grouping.xml
+
+14:17:01.845 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has started the Execution*********
+14:17:05.748 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the My Account *********
+14:17:07.116 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the Register now button *********
+14:17:07.116 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing the user details *********
+14:17:11.073 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Performing the validation*********
+14:17:11.303 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has finished the Execution*********
+14:17:23.801 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Started*****
+14:17:28.516 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Finished*****
+15:03:42.357 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\MasterFile.xml"

@@ -1,0 +1,44 @@
+11:09:39.012 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:39.281 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:40.189 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:40.193 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:40.196 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:40.321 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:40.326 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:40.329 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:40.440 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:40.443 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:40.446 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:40.716 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:40.736 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:40.753 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:42.935 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:42.938 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:42.943 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:43.465 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:43.471 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:43.473 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:16:52.869 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\grid-docker.xml"
+11:16:54.385 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\grid-docker.xml
+
+11:25:46.638 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\grid-docker.xml"
+11:25:48.044 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\grid-docker.xml
+
+11:26:57.217 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has started the Execution*********
+11:26:58.640 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the My Account *********
+11:27:00.324 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the Register now button *********
+11:27:00.325 [main] INFO  testCases.TC001_AccountRegistrationTest - *******Providing the user details *********
+11:27:04.819 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Performing the validation*********
+11:27:04.982 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has finished the Execution*********
+11:27:23.743 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Started*****
+11:27:29.095 [main] INFO  testCases.TC002_AccountLoginTest - ******TC002_AccountLogin Execution Finished*****
+11:29:52.143 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\grid-docker.xml"
+11:30:51.989 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\grid-docker.xml"
+11:30:53.643 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\PRAMOD\eclipse-workspace\Open_Cart_Project\grid-docker.xml
+
+11:31:04.979 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* TC001_AccountRegistrationTest has started the Execution*********
+11:31:06.805 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the My Account *********
+11:31:11.688 [main] INFO  testCases.TC001_AccountRegistrationTest - ******* Clicked on the Register now button *********

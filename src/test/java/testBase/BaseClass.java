@@ -31,7 +31,7 @@ public class BaseClass {
      public Properties p;
 	
 	@BeforeClass(groups= {"Sanity","Regression","Master"}) 
-	@Parameters({"os","browser"})
+	@Parameters({"os","br"})
 	public void setup(String os,String br) throws IOException
 	{
 		// To read the properties file we need to initially load the file

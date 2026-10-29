@@ -18,39 +18,33 @@
         <maven.compiler.release>17</maven.compiler.release>
     </properties>
  <build>
- <pluginManagement>
-        <plugins>
+    <plugins>
 
-            <!-- Java Compiler -->
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-compiler-plugin</artifactId>
-                <version>3.13.0</version>
-                <configuration>
-                    <release>17</release>
-                </configuration>
-            </plugin>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <version>3.13.0</version>
+            <configuration>
+                <release>17</release>
+            </configuration>
+        </plugin>
 
-            <!-- Maven Surefire: Execute TestNG MasterFile.xml -->
-            <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
-                <artifactId>maven-surefire-plugin</artifactId>
-                <version>3.6.0</version>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-surefire-plugin</artifactId>
+            <version>3.5.5</version>
+            <configuration>
+                <suiteXmlFiles>
+                    <suiteXmlFile>
+                        ${project.basedir}/MasterFile.xml
+                    </suiteXmlFile>
+                </suiteXmlFiles>
+                <failIfNoTests>true</failIfNoTests>
+            </configuration>
+        </plugin>
 
-                <configuration>
-                    <suiteXmlFiles>
-                        <suiteXmlFile>
-                            ${project.basedir}/MasterFile.xml
-                        </suiteXmlFile>
-                    </suiteXmlFiles>
-
-                    <failIfNoTests>true</failIfNoTests>
-                </configuration>
-            </plugin>
-
-        </plugins>
-        </pluginManagement>
-    </build>
+    </plugins>
+</build>
     
     <dependencies>
 
